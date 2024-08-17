@@ -1,6 +1,6 @@
 # Python Data Mining code implementing Naive Bayes, Decision Tree and K-Nearest Neighbours (KNN) Big Data Analysis Algorithms
 
-Note: Please view the 'DOC' pdf file for an in-detail and comprehensive documentation of the this project. Contains detailed explanation, its working and visualized results of the code.
+<b>Note: Please view the 'DOC' pdf file for an in-detail and comprehensive documentation of the this project. Contains detailed explanation, its working and visualized results of the code. The program and dataset are added in the 'DataMiningCode' folder of this repository</b>
 
 <h2>
   Introduction
